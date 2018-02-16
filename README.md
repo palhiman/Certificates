@@ -1,2 +1,3 @@
 # helloworld
-Just to know the Github work flow
+# This program is just simple version of ROCK--PAPER--SCISSOR.....
+# Developed in python3 
