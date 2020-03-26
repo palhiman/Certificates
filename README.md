@@ -4,4 +4,5 @@
 + HTML and CSS
 + HTML5, CSS, and JS
 + Git and Github
-+ 
++ Python3
+
